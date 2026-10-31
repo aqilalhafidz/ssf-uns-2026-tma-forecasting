@@ -1,0 +1,12 @@
+# Final notebook main dependencies
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+lightgbm==4.6.0
+
+# Only for experimental cells/diagnostics (optional)
+# scipy        # Lomb-Scargle (tidal analysis)
+# optuna       # hyperparameter tuning
+# catboost     # attempted and discarded blending option
+# geopandas    # HydroRIVERS shapefile exploration
+# pyogrio      # fast I/O engine for geopandas
