@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Rahasia (JANGAN PERNAH di-commit)
+.env
+*.env
+kaggle.json
+
+# Sistem operasi / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data kompetisi dan keluaran besar (batas GitHub: 100 MB per berkas)
+data/
+*.csv
+*.parquet
+*.zip
+*.shp
+*.dbf
+*.shx
